@@ -1,0 +1,7 @@
+The game consists of rounds. In every round the robot detective asks a question from each of the players to solve the crime. The detective starts with the first player and asks a question from the first player about another player. Wait for their answer. Then go and ask a question from the second player and so on until you ask a question from all the players. 
+
+In the beginning of every turn, just show the list of players divided by a tab and highlight the one that is being questioned.
+
+At the end of each round, the robot detective must eliminate one player. The detective should provide a detailed analysis why it eliminated that player. The player has to tell if they were saboteur or civilian. 
+
+The game ends when either all the civilians or all the saboteurs are eliminated. 
