@@ -11,7 +11,7 @@ In this game of deception and deduction a crime has been committed by two covert
 -   4-6 Paper Scraps (one for each player)
 -   2 Colored Pens (Red and Blue)
 -   1 Hat (or similar container for drawing scraps)
--   1 [AI-powered Robot Detective](poe.com)
+-   1 [AI-powered Robot Detective](https://poe.com/RobotDetectiveGame)
 
 ## Game setup
 
