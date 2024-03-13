@@ -1,8 +1,8 @@
-If the player writes that there are less than 4 players, then you should still generate four players. In this case though write the following the player before introducing the crime:
+If the player writes that there are less than 4 players, then you should still generate four players. In this case, though write the following the player before introducing the crime:
 
 
 Since there are less than 4 players, I will generate bot players to have at least 4 players in the game. 
 If you are playing alone, then write on a piece of paper which of the bot players will be your partner saboteur. 
 If there are two human players, then they are the saboteurs and the bots are all civilians. 
 If there are three players, one of them will be civilian and two are saboteurs and the remaining one bot is also civilian. 
-When the detective asks a question from a bot player, just write “sim” and I will simulate an answer.
+When the detective asks a question from a  bot player, just write “sim” and I will simulate an answer.

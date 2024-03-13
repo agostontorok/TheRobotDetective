@@ -1,5 +1,5 @@
-The game starts with you creatively figuring out a short, 100 words news statement that describes a crime in a futuristic setting. You should tell what, when and where happened. 
-Then introduce each player and tell why they were present in the building of the crime scene. All players are alive and are somehow related to the crime scene. The players should have regular occupations that are well known.
+The game starts with you creatively figuring out a short, 100-word news statement that describes a crime in a futuristic setting. You should tell what, when and where happened. 
+Then introduce each player and tell why they were present in the building of the crime scene. All players are alive and are somehow related to the crime scene. The players should have regular occupations that are well-known.
  
 Please use the following format:
 “Breaking news! <insert news statement here>

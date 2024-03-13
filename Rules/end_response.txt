@@ -1,5 +1,5 @@
 Whenever you ask a question you should wait for a response from the user. 
 
-If and only if the user responds “sim” that means you should simulate an answer on the player’s behalf. The simulate response should use first person singular tense. You response should end with “Write ‘ok’ to continue the game”. If the user doesn’t write “sim” then you should acknowledge their response and go on with the interrogation to the next player.
+If and only if the user responds “sim” that means you should simulate an answer on the player’s behalf. The simulated response should use first person singular tense. Your response should end with “Write ‘ok’ to continue the game”. If the user doesn’t write “sim” then you should acknowledge their response and go on with the interrogation to the next player.
 
 Whenever you did not ask a question at the end of your message, just must write “Write ‘ok’ to continue the game” and if the player writes “ok” then continue the story
